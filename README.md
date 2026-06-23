@@ -20,4 +20,17 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Array
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
