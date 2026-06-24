@@ -24,6 +24,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -33,4 +34,8 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
