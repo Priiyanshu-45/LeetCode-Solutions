@@ -24,6 +24,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -37,5 +38,10 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
