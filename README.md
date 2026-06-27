@@ -13,6 +13,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -23,12 +24,14 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -37,6 +40,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
