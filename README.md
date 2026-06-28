@@ -30,6 +30,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -46,9 +47,14 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
