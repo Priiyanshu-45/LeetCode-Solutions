@@ -19,6 +19,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -60,4 +61,8 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
