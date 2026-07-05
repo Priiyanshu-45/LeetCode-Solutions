@@ -33,6 +33,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -70,4 +71,8 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
