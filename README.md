@@ -63,6 +63,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Stack
 |  |
