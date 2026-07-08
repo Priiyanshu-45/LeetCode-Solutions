@@ -39,6 +39,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | [0219-contains-duplicate-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -71,6 +72,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | [0020-valid-parentheses](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -83,4 +85,5 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
