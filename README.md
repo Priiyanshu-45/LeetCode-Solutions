@@ -34,6 +34,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
@@ -89,4 +91,8 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | [0496-next-greater-element-i](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
