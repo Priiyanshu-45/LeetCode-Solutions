@@ -15,6 +15,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | [0219-contains-duplicate-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
@@ -42,6 +43,7 @@ Solutions to LeetCode problems solved as part of my data structures and algorith
 | [0283-move-zeroes](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0697-degree-of-an-array](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priiyanshu-45/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
