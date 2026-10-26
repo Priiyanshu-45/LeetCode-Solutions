@@ -1,15 +1,13 @@
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        int maxProfit = INT_MIN;
-        int lowestTillNow = prices[0];
-        for(int i = 0; i<n; i++){
-            if(prices[i] < lowestTillNow){
-                lowestTillNow = prices[i];
+    class Solution {
+    public:
+        int maxProfit(vector<int>& prices) {
+            int n = prices.size();
+            int sm = prices[0];
+            int gmax = 0;
+            for(int i = 1; i<n; i++){
+            if(sm>prices[i]) sm = prices[i];
+            gmax = max(gmax, prices[i] - sm); 
             }
-            maxProfit = max(maxProfit, prices[i] - lowestTillNow);
+            return gmax;
         }
-        return maxProfit;
-    }
-};
+    };
